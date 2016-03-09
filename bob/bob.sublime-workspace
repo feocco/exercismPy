@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rest",
+				"restList2"
+			],
+			[
+				"restLi",
+				"restList3"
+			],
+			[
+				"MyGrae",
+				"MyGradesUrlRedirector"
+			],
+			[
+				"save",
+				"saveSequence"
+			],
+			[
+				"beer",
+				"beerNum"
+			],
+			[
+				"Beer",
+				"beerNum"
+			],
+			[
+				"LRNSI-",
+				"LRNSI-17986"
+			],
+			[
+				"notification",
+				"notifications"
+			],
+			[
+				"Course",
+				"course_id"
+			],
+			[
+				"perosn",
+				"personalization"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jfeocco/Downloads/02126386 - ActiveMQ/Configurations/message-queue/03b.message-queue-service-config.xml",
+		"/C/Users/jfeocco/Documents/Case downloads/SublimeTemplates/02124136 - Java Errors",
+		"/C/Users/jfeocco/Documents/Case downloads/SublimeTemplates/02130054 - Assessment",
+		"/C/Users/jfeocco/Documents/Case downloads/02127535 - AMQ/CLB/message-queue-service-config.xml",
+		"/C/Users/jfeocco/Downloads/bb-tasks.xml",
+		"/C/Program Files/Sublime Text 3/Case Documentation/02106852 - Tracking Reports",
+		"/C/Program Files/Sublime Text 3/Case Documentation/02106594 - Retention center",
+		"/C/Program Files/Sublime Text 3/Case Documentation/Drake",
+		"/C/Program Files/Sublime Text 3/Case Documentation/02108941 - Reno perf",
+		"/C/Users/jfeocco/Documents/heavy_perf_query.txt",
+		"/C/Users/jfeocco/Downloads/message-queue-service-config/message-queue-service-config/WCL1message-queue-service-config.xml",
+		"/C/Program Files/Sublime Text 3/Case Documentation/2093615 - SIS Feed File",
+		"/C/Users/jfeocco/Documents/XMLFeedfile.xml",
+		"/C/Program Files/Sublime Text 3/Case Documentation/02098924 - GC Problems",
+		"/C/Users/jfeocco/Downloads/02016578 - DB Disconnects",
+		"/C/Users/jfeocco/Downloads/threaddump-analyzer-gh-pages/threaddump-analyzer-gh-pages/README.md",
+		"/C/Users/jfeocco/Downloads/message-queue-service-config.xml",
+		"/C/Users/jfeocco/Documents/HTMLtest.html",
+		"/C/Users/jfeocco/Downloads/1-15/02093334 - Disabled Users",
+		"/C/Users/jfeocco/Documents/Report Def's SP 14/course.activity.rptdesign",
+		"/C/Users/jfeocco/Documents/User_Feed.txt",
+		"/C/Users/jfeocco/Downloads/feoccoChildEnrollment",
+		"/C/Users/jfeocco/Documents/Case downloads/02087639 - Analytics/Case 02087639 - Pace University",
+		"/C/Users/jfeocco/Documents/Case downloads/02087639 - Analytics/Pace University - SI Template",
+		"/C/Users/jfeocco/Downloads/bb-tasks_NODE2.xml",
+		"/C/Users/jfeocco/Downloads/bb-tasks_NODE1.xml",
+		"/C/Users/jfeocco/Downloads/bb-tasks.windowsNODE2.xml",
+		"/C/Users/jfeocco/Downloads/bb-tasks.windows_NODE1.xml",
+		"/C/Users/jfeocco/Documents/Case downloads/02080798 - SIS/banner_peopleNoEmail.txt",
+		"/C/Users/jfeocco/Downloads/TestXMLClient.xml",
+		"/C/Users/jfeocco/Documents/XMLFeedfile_CopyCourse.xml",
+		"/C/Users/jfeocco/Downloads/Snapshot_plainDSK.txt",
+		"/C/Users/jfeocco/Downloads/IMSTest_nodsk.xml",
+		"/C/Users/jfeocco/Downloads/bb-mygrades/WEB-INF/classes/blackboard/plugin/mygrades/util/MyGradesUtil.class",
+		"/C/Users/jfeocco/Documents/Case downloads/01987413 - DUPAGE/DupageLogSpam.java",
+		"/C/Users/jfeocco/Documents/Template Notes",
+		"/C/Users/jfeocco/Documents/Case downloads/02086311 - SP 6/ServiceController.bat",
+		"/C/Users/jfeocco/Documents/Case downloads/02086311 - SP 6/ServiceController_original.bat",
+		"/C/Users/jfeocco/Downloads/ServiceController.bat",
+		"/C/Users/jfeocco/Documents/Case downloads/02086311 - SP 6/ServiceController.bat.bb",
+		"/C/Users/jfeocco/Desktop/SP7/PushConfigUpdates.bat",
+		"/C/Users/jfeocco/Desktop/SP7/ServiceController.bat",
+		"/C/Users/jfeocco/Downloads/AP03-ActiveMQ/activemq.txt.2014-12-08.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02083272 - JVM Time Out/12-03-14/catalina-log.txt",
+		"/C/Users/jfeocco/Downloads/bb-access-log.2014-10-23.txt",
+		"/C/Users/jfeocco/Downloads/Filtered_206s_Time_plus_Request.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02069831 - Safari 8/thread_dump.2014-11-07-112439.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer1/thread_dump.2014-11-03-104647.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer1/thread_dump.2014-11-03-104152.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer2/thread_dump.2014-11-03-100210.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer2/thread_dump.2014-11-03-100117.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer3/thread_dump.2014-11-03-101956.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01998482 - DB CPU Utilization/AppServer3/thread_dump.2014-11-03-102032.txt",
+		"/C/Users/jfeocco/Documents/Basic_Perf_Queries.txt",
+		"/C/Users/jfeocco/Downloads/bb-vtbe-tinymce/WEB-INF/bb-manifest.xml",
+		"/C/Users/jfeocco/Downloads/02010424/thread_dump.2014-11-04-111726.txt",
+		"/C/Users/jfeocco/Downloads/02010424/thread_dump.2014-11-04-111802.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/DonSevers.java",
+		"/C/Users/jfeocco/Documents/Case downloads/02000437 - ActiveMQ/Message-queue/message-queue-service-config-bbadmin.xml",
+		"/C/Users/jfeocco/Documents/Case downloads/02010313 - ActiveMQ/message-queue-service-config (4).xml",
+		"/C/Users/jfeocco/Documents/Case downloads/02010313 - ActiveMQ/message-queue-service-config.xml",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/Fitchburg - ActiveMQ",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/Active MQ;",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/02004056 - Flat File",
+		"/C/Users/jfeocco/Documents/April2014StabilityFromGarryHarper.txt",
+		"/C/Users/jfeocco/Documents/test.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02004679 - Connection Reset/BBPAPP1/bb-access-log.2014-10-09.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02003751 - ActMQ Course Copy/activemq.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02003751 - ActMQ Course Copy/BB01/activemq.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02003751 - ActMQ Course Copy/BB03/activemq.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02003751 - ActMQ Course Copy/BB04/activemq.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02003751 - ActMQ Course Copy/BB05/activemq.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/01988769 - DB Spikes/CPU Graphs/April2014StabilityFromGarryHarper.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/02004679 - Connection Reset/BBPAPP2/activemq.txt",
+		"/C/Users/jfeocco/Downloads/bb-auth-provider-shibboleth/WEB-INF/bb-manifest.xml",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/test",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/test1",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/01998849 - Perf",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/SA - 020011826",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/Email - 01996869",
+		"/C/Users/jfeocco/Documents/Case downloads/Sublime_Random/01999372",
+		"/C/Users/jfeocco/Documents/Case downloads/Integration - 01995195/gbbbsnap2/data-integration.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/Integration - 01995195/gbbbsnap2/data-integration.2014-09-19.txt",
+		"/C/Users/jfeocco/Documents/Case downloads/Integration - 01995195/ENR_2014_FAL",
+		"/C/Users/jfeocco/Documents/Case downloads/01998849 - Performance/bb-config.properties",
+		"/C/Users/jfeocco/Documents/IIS - Noelle - Notes",
+		"/C/Users/jfeocco/Downloads/access_services_logs/access_services_logs/bb-access-log.2014-09-21.txt",
+		"/C/Users/jfeocco/Downloads/access_services_logs/access_services_logs/bb-services-log.2014-09-21.txt",
+		"/C/Users/jfeocco/Downloads/SI_Files/Logs_Before_Restart/APP2 Before thread_dump.2014-09-22-091611.txt",
+		"/C/Users/jfeocco/Downloads/SI_Files/Logs_Before_Restart/APP2 Before thread_dump.2014-09-22-091537.txt",
+		"/C/Users/jfeocco/Downloads/SI_Files/Config_Files/APP1 bb-config.properties",
+		"/C/Users/jfeocco/Downloads/SI_Files/Config_Files/APP2 bb-config.properties",
+		"/C/Users/jfeocco/Downloads/SI_Files/Config_Files/APP1 bb-config.properties.template",
+		"/C/Users/jfeocco/Downloads/Email - 10996869/APP2 bb-config.properties",
+		"/C/Users/jfeocco/Downloads/Email - 10996869/APP1 bb-config.properties",
+		"/C/Users/jfeocco/Downloads/Active MQ Case/New Logs/APP2 Log Files/APP2 Before thread_dump.2014-09-22-091537.txt",
+		"/C/Users/jfeocco/Downloads/Firefox - Kicked out/bb-access-log.2014-09-12.txt",
+		"/C/Users/jfeocco/Downloads/Integration - 01995195/ENR_2014_FAL",
+		"/C/Users/jfeocco/Downloads/bb-access-log.2014-09-12.txt",
+		"/C/Users/jfeocco/Downloads/bb-access-log.2014-09-19.txt",
+		"/C/Users/jfeocco/Downloads/top5sql.csv",
+		"/C/Users/jfeocco/Downloads/activemq.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CMS",
+			"INFO",
+			", \"",
+			"bbconfig.messagequeue.password=",
+			"password=",
+			"username=",
+			"username",
+			"user",
+			"Line",
+			"Morty",
+			"RollableLogger",
+			"RollableLogeger",
+			"rollable",
+			"02",
+			"Edit",
+			"02",
+			"Esc",
+			"02",
+			"edit",
+			"bb",
+			"And",
+			"From",
+			"Where",
+			"XYF",
+			"BBLEARN_CMS_DOC",
+			"Failed firing item deleted event for Gradable",
+			"An error occurred while loading the toc named",
+			"The Session is closed",
+			"LINE",
+			"2272",
+			"741",
+			"join",
+			"and",
+			"William",
+			"ods",
+			"- ",
+			"block",
+			"Sear",
+			"c:\\",
+			"Line",
+			"{noformat}",
+			"0",
+			"02",
+			"requestsec",
+			"requestclass",
+			"contentisolation",
+			"syspolicy_purge_history",
+			"TRN",
+			"- nope",
+			"Charles Cloutier: ",
+			"020",
+			"\"",
+			"total",
+			"userCount",
+			"70",
+			"ods_aa_course_activity",
+			"Cloutier",
+			"SUCCESS",
+			"SUCCES",
+			"SUCCESS",
+			"SQL",
+			"BBLEARN",
+			"Damage",
+			"bb.tracking.report",
+			"ETL star",
+			"does not exist. Make sure that the name is entered correctly",
+			"@gardner-webb.edu",
+			"TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA",
+			"SSL_RSA_WITH_RC4_128_MD5",
+			"Bananafarm2",
+			"Bananafarm",
+			"IMSTEST",
+			"Giants",
+			"<",
+			"Giants",
+			"</",
+			"INFO   | jvm 3",
+			"duplicate",
+			"userId",
+			"139510",
+			"102775",
+			"107384",
+			"2310453",
+			"x-mh",
+			" t ",
+			"anal",
+			"302",
+			" 200 ",
+			"logs",
+			"38000",
+			"40.030 40030",
+			"3797",
+			"40030",
+			"38000",
+			"391",
+			"_146344_1",
+			"_941013_1",
+			"_932362_1",
+			"locked",
+			"blackboard",
+			"Failed to show preview - java.lang.NullPointerException\n	at blackboard.platform.portfolio.PortfolioShareRecipient.getOrCreateSnapshotUUID",
+			"Failed to generate or reference a snapshot",
+			"edi",
+			"8.614",
+			"5.032",
+			" 8.421",
+			"Failed to process duplicate check for blob",
+			"ClassNotFoundExceptio",
+			".jar]},",
+			"Caused by:",
+			"Caused by",
+			"\n\n",
+			"\n",
+			"Inter-server communi",
+			"dwr",
+			"gif",
+			"_98095_1",
+			"98095",
+			"assess",
+			"dwr",
+			"gif",
+			"png",
+			"HTTP",
+			"dwr",
+			"gif",
+			"691429_1&question_num_16.x=0&toggle_state=qShow&step",
+			"gif",
+			"dwr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", \n			\"",
+			", \n			",
+			"Dom",
+			"dbo.XYF",
+			"cms_doc",
+			"(select pk1 from course_main where course_id = 'EWS_TEST')",
+			"{code:SQL}",
+			"- Completing successfully not near the incident",
+			"BBPROD",
+			"CD",
+			"KiwiFarm3",
+			"Bananafarm2",
+			"IMSTEST2",
+			"IMSTEST",
+			"Feocco_Copy",
+			"2916199",
+			"2014-10",
+			"",
+			"BBLEARN.",
+			"waiting"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bob.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
