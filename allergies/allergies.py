@@ -20,7 +20,6 @@ class Allergies:
 
 
     def is_allergic_to(self, item):
-        returnList = []
         if item in self.lst:
             return True
         else:
