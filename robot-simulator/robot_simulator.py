@@ -1,14 +1,4 @@
-class NORTH:
-	pass
-
-class SOUTH:
-	pass
-
-class EAST:
-	pass
-
-class WEST:
-	pass
+NORTH, WEST, EAST, SOUTH = range(4)
 
 
 class Robot:
