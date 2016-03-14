@@ -44,7 +44,6 @@ class Robot:
 			self.bearing = self.directions[index + 1]
 		else:
 			self.bearing = self.directions[0]
-		print(self.bearing, ' + ', index)
 
 	def turn_left(self):
 		index = self.directions.index(self.bearing)
@@ -52,4 +51,3 @@ class Robot:
 			self.bearing = self.directions[index - 1]
 		else:
 			self.bearing = self.directions[0]
-		print(self.bearing, ' + ', index)
