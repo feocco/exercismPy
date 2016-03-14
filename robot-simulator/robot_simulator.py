@@ -27,7 +27,6 @@ class Robot:
 				self.advance()
 
 	def advance(self):
-		# Move one unit towards direction
 		x, y = self.coordinates
 		if self.bearing == NORTH:
 			y += 1
@@ -45,10 +44,12 @@ class Robot:
 			self.bearing = self.directions[index + 1]
 		else:
 			self.bearing = self.directions[0]
+		print(self.bearing, ' + ', index)
 
 	def turn_left(self):
 		index = self.directions.index(self.bearing)
-		if index < len(self.directions) - 1:
+		if index < len(self.directions):
 			self.bearing = self.directions[index - 1]
 		else:
 			self.bearing = self.directions[0]
+		print(self.bearing, ' + ', index)
