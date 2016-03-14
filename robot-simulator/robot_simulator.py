@@ -1,14 +1,11 @@
 class NORTH:
 	pass
 
-
 class SOUTH:
 	pass
 
-
 class EAST:
 	pass
-
 
 class WEST:
 	pass
@@ -43,10 +40,15 @@ class Robot:
 		self.coordinates = (x, y)
 
 	def turn_right(self):
-		# Turn right
 		index = self.directions.index(self.bearing)
-
+		if index  < len(self.directions) - 1:
+			self.bearing = self.directions[index + 1]
+		else:
+			self.bearing = self.directions[0]
 
 	def turn_left(self):
-		# Turn left
-		pass
+		index = self.directions.index(self.bearing)
+		if index < len(self.directions) - 1:
+			self.bearing = self.directions[index - 1]
+		else:
+			self.bearing = self.directions[0]
