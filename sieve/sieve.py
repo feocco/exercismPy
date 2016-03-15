@@ -2,7 +2,6 @@ def sieve(limit):
 	composites = []
 	primes = []
 
-
 	for number in range(2,limit + 1):
 		if number not in composites:
 			primes.append(number)
